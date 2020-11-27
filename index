@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  
+
+
+  <body>
+  	<br><br>
+    <input style="font-size:200%;" type="text" name="campos" placeholder="Nome " >
+    <br><br>
+    <input style="font-size:200%;" type="text" name="campos" placeholder="WhatsApp">
+<br><br>
+    <input style="font-size:200%;" type="text" name="campos" placeholder="Email">
+<br><br>
+
+
+<div class="select">
+  <select  style="font-size:200%;" style="width: 50px;" name="slct" id="slct" >
+    <option selected disabled>Quantidade</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="2">9</option>
+    <option value="3">10</option>
+    <option value="4">11</option>
+    <option value="5">12</option>
+    <option value="6">13</option>
+    <option value="7">14</option>
+    <option value="8">15</option>
+
+  </select>
+<br><br>
+<div class="select">
+  <select  style="font-size:200%;" style="width: 50px;" name="slct" id="slct">
+    <option selected disabled>Produto</option>
+    <option value="1">Alicate de unha </option>
+    <option value="2">Tesoura de cortar cabelo </option>
+    <option value="3">Alicate de unha </option>
+    <option value="4">Tesoura de cortar cabelo </option>
+    <option value="5">Alicate de unha </option>
+    <option value="6">Tesoura de cortar cabelo </option>
+    <option value="7">Alicate de unha </option>
+    <option value="8">Tesoura de cortar cabelo </option>
+  </select>
+</div>
+<br>
+    <input style="font-size:200%;" type="text" name="campos" placeholder="Valor unitário">
+<br><br>
+
+
+
+
+
+
+
+
+<input style="font-size:200%;" type="button" name="" value="OK ">
+
+<br><br>  
+
+<div class="resumo"> Resumo </div>
+
+
+  </body>
+</html>
